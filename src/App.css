@@ -1,0 +1,21 @@
+
+.future-earning-calculator {
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.result {
+  background-color: #f8f9fa;
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+
+.alert {
+  margin-top: 10px;
+}
+
+.btn {
+  margin-top: 20px;
+}
